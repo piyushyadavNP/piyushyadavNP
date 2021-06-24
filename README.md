@@ -7,8 +7,8 @@ I'm Piyuh from Nepal, and I do web and app development.
 
 I am currently working on flutter.
 
-###Skills
-<a href="https://iconscout.com/icons/html" target="_blank">Html Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-54">Icon 54</a> on <a href="https://iconscout.com">Iconscout</a>
+### Skills
+
 
 
 - 🔭 I’m currently working on this page. 
