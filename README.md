@@ -24,8 +24,6 @@ I am currently working on flutter.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushyadavNP&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=piyushyadavNP)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piyushyadavNP)  
 
 ![Profile views](https://gpvc.arturio.dev/piyushyadavNP)  
