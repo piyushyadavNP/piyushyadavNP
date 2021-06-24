@@ -3,7 +3,7 @@ I'm Piyuh from Nepal, and I do web and app development.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushyadavNP)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, I am Piyush Yadav
 #### I Enjoy Learning Application Development.
-![I Enjoy Learning Application Development.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I Enjoy Learning Application Development.](https://github.com/piyushyadavNP/piyushyadavNP/blob/main/PiyushYadav.jpg)
 
 I am currently working on flutter.
 
