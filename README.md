@@ -1,9 +1,6 @@
-### Hi there 👋
-I'm Piyuh from Nepal, and I do web and app development.
 ### Hi there 👋, I am Piyush Yadav
+I'm Piyuh from Nepal, and I do web and app development.
 #### I Enjoy Learning Application Development.
-![I Enjoy Learning Application Development.]
-
 I am currently working on flutter.
 
 ### Skills HTML CSS PHP JAVA JAVASCRIPT ASP.NET MVC FLUTTER
