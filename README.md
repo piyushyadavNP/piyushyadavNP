@@ -6,7 +6,7 @@ I'm Piyuh from Nepal, and I do web and app development.
 
 I am currently working on flutter.
 
-### Skills
+### Skills HTML CSS PHP JAVA JAVASCRIPT ASP.NET MVC FLUTTER
 
 
 
