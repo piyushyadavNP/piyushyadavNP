@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Piyush Yadav
-I'm Piyuh from Nepal, and I do web and app development.
+I'm Piyush from Nepal, and I do web and app development.
 #### I Enjoy Learning Application Development.
 I am currently working on flutter.
 
