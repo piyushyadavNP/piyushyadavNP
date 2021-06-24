@@ -22,9 +22,7 @@ I am currently working on flutter.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadavNP)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushyadavNP&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piyushyadavNP)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushyadavNP&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piyushyadavNP)  
 
 ![Profile views](https://gpvc.arturio.dev/piyushyadavNP)  
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
